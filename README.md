@@ -21,6 +21,7 @@ Autostart kurulumunu yaptığınız zaman raspberry her ayağa kalktığında se
 Sistem başlatılır.
 ### sudo nano /etc/rc.local
 Bu adımdan sonra raspberrynize Blynk isminde bir klasör oluşturulur ve klasör içerisindeki mail.properties düzenlenir. Admin sayfasına raspberryi üzerindeki tarayıcadan bağlanabilir ve tokenınıza bağlı projeleri görüp bu admin sayfası üzerinden yönetebilirsiniz. Bu adımlar başarıyla tamamlandıktan sonra Blynk Server başarılı bir şekilde kurulmuş olacaktır. 
+## Uygulamayı dair daha geniş bilgiler için Wiki sayfasına bakınız.
 
 
 
