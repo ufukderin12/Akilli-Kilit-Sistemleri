@@ -12,7 +12,8 @@ Telefonunuz ve kontrol edeceğiniz donanım arasındaki tüm iletişimden soruml
 # Blynk Kütüphanesi
 Tüm popüler donanım platformları için sunucu ile iletişimi etkinleştirip ve gelen ve giden komutları işlemenizi sağlar. <br/>
 Blynk her uygulamamız için bize bir “Auth Token” tanımlıyor ve bunu mail adresimize gönderiyor. Auth Token sizin için üretilmiş özel bir imza ve haberleşme sağlanırken bu imzaların uygulama ve donanımla eşleşmesi gerekiyor. 
-## Uygulamayı dair daha geniş bilgiler için Wiki sayfasına bakınız.
+# Uygulamayı dair daha geniş bilgiler için Wiki sayfasına bakınız.
+[Wiki Linki](https://github.com/ufukderin12/Akilli-Kilit-Sistemleri/wiki)
 
 
 
