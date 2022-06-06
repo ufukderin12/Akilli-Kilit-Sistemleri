@@ -1,6 +1,6 @@
 # Akilli Kilit Sistemleri
  Blynk Server ile IoT Uygulaması <br/>
- `Projeye dair detaylı açıklamalar için wiki sayfasına gidin.>>>` [Wiki Linki](https://github.com/ufukderin12/Akilli-Kilit-Sistemleri/wiki/**************BLYNK-ile-IoT-UYGULAMASI**************)
+ `Projeye dair detaylı açıklamalar için wiki sayfasına gidin.>>>` [Wiki Linki](https://github.com/ufukderin12/Akilli-Kilit-Sistemleri/wiki/**************Blynk-ile-IoT-Uygulamas**************)
 # Blynk Server Kurulumu
  Blynk, IOT sistemler için tasarlanmış bir programdır. Bu programla donanımlarınızı uzaktan kontrol edebilir, sensör verileri alabilir, veri depolayabilir, bu verileri    görselleştirebilir ve bunun gibi birçok şeyi yapabilirsiniz.
  
