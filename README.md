@@ -14,7 +14,7 @@ Tüm popüler donanım platformları için sunucu ile iletişimi etkinleştirip 
 Blynk her uygulamamız için bize bir “Auth Token” tanımlıyor ve bunu mail adresimize gönderiyor. Auth Token sizin için üretilmiş özel bir imza ve haberleşme sağlanırken bu imzaların uygulama ve donanımla eşleşmesi gerekiyor. 
 # Uygulamayı dair daha geniş bilgiler için Wiki sayfasına bakınız.
 `Server kurulumu için gerekli kodlara ve kaynak koda bu linke tıklayarak ulaşabilirsin.`
-[Wiki Linki](https://github.com/ufukderin12/Akilli-Kilit-Sistemleri/wiki/**************BLYNK-ile-IoT-UYGULAMASI**************)
+[Wiki Linki](https://github.com/ufukderin12/Akilli-Kilit-Sistemleri/wiki/**************Blynk-ile-IoT-Uygulamas%C4%B1**************)
 
 
 
